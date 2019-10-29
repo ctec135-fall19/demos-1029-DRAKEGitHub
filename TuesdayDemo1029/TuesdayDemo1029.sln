@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkToArray", "LinkToArray\LinkToArray.csproj", "{175ABD54-AC84-44BC-8D50-44FEA108A3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175ABD54-AC84-44BC-8D50-44FEA108A3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175ABD54-AC84-44BC-8D50-44FEA108A3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175ABD54-AC84-44BC-8D50-44FEA108A3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175ABD54-AC84-44BC-8D50-44FEA108A3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F28C5E5-C00F-4D84-9BFE-90DB5C1E1672}
+	EndGlobalSection
+EndGlobal
